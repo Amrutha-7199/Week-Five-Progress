@@ -12,3 +12,6 @@ STEPS:
 - Flask API is used for backend
 - Used postman to post the requests for Chatbot_DialoGPT.
 
+
+All the screenshorts are attached in the report.
+
